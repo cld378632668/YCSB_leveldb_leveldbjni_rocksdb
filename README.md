@@ -16,7 +16,7 @@ permissions and limitations under the License. See accompanying
 LICENSE file.
 -->
 
-Leveldb and Rocksdb modules of Yahoo! Cloud System Benchmark (YCSB)
+Leveldb and Rocksdb modules of YCSB
 ====================================
 [![Build Status](https://travis-ci.org/brianfrankcooper/YCSB.png?branch=master)](https://travis-ci.org/brianfrankcooper/YCSB)
 
