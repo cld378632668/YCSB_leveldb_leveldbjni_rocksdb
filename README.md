@@ -2,7 +2,8 @@
 YCSB是....
 
 XX提供增删改查接口，我从数据库取数据，使用了ByteIterator数据接口，其例子和好处是：
-
+'''
+‘’‘’
   @Override
   public Status read(String table, String key, Set<String> fields, Map<String, ByteIterator> result) {
     try {
@@ -25,7 +26,7 @@ XX提供增删改查接口，我从数据库取数据，使用了ByteIterator数
   
   
   **/
-
+'''
 <!--
 Copyright (c) 2010 Yahoo! Inc., 2012 - 2016 YCSB contributors.
 All rights reserved.
