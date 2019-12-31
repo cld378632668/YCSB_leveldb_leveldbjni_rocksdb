@@ -28,6 +28,19 @@ Why I use ByteIterator here?
   b.byte是字节，可以屏蔽utf8、gbk等编码细节。文本从磁盘拿出来本来是二进制，需要通过编码转化为对应的字符。ByteIterator可以屏蔽不同服务器编码不一样的的问题。
   
   
+使用Byte来存储数据有什么缺点和优点？
+
+略
+
+使用Iterator有什么缺点和优点？可以屏蔽细节？
+
+略
+
+使用ByteIerator来有什么缺点和有点？  
+
+略
+
+
 
 <!--
 Copyright (c) 2010 Yahoo! Inc., 2012 - 2016 YCSB contributors.
